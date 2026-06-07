@@ -1,0 +1,1 @@
+sudo cd usr/lib/node_modules/genieacs/public/genieacs mongorestore --db=genieacs --drop genieacs
